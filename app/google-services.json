@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060372526949",
+    "firebase_url": "https://login-be85e.firebaseio.com",
+    "project_id": "login-be85e",
+    "storage_bucket": "login-be85e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060372526949:android:7b033fe23c5255dc05938c",
+        "android_client_info": {
+          "package_name": "com.example.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060372526949-p3cfc50p0pg29dsjqut9n3hg11r3q2cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_3I90BxRg9dn3Z8WgQiwvSpSlpfH0TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060372526949-p3cfc50p0pg29dsjqut9n3hg11r3q2cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
